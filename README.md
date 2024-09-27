@@ -27,4 +27,6 @@ The **Global Consumer Price Index Explorer** is an interactive web application t
 - **Pandas**: For data manipulation and analysis.
 - **Plotly**: For creating interactive visualizations.
 - **Python**: The core programming language for development.
-"""
+
+## Data Source
+The data used in this project comes from the [Food and Agriculture Organization (FAO) Consumer Price Index dataset](https://www.fao.org/faostat/en/#data/CP).
