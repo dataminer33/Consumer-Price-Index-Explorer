@@ -14,7 +14,7 @@ The **Global Consumer Price Index Explorer** is an interactive web application t
 
 ## How to Use
 
-1. **Access the App**: Visit the [![Global CPI Explorer Web App](https://img.shields.io/badge/Go_to_App-Web_App-brightgreen)](https://swiss-rent-and-salary-trends.streamlit.app/)
+1. **Access the App**: Visit the [![Global CPI Explorer Web App](https://img.shields.io/badge/Go_to_App-Web_App-brightgreen)](https://cpi-explorer.streamlit.app/)
 
 2. **Interact with the App**: 
    - Explore Consumer Price Index data using interactive charts.
